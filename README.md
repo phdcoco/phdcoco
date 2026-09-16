@@ -20,7 +20,7 @@
 (2025.09 - ) GDG Hongik Core Member
 
 ### 📊 Project  
-(2026.08) GDG Hongik X Hyphen 해커톤 (우수상) : SCHIM - 장르불문 블라인드 방명록 프로젝트
+(2026.08) GDG Hongik X Hyphen 해커톤 (우수상) : SCHIM - 장르불문 블라인드 방명록 프로젝트  
 (2026.07 - 2026.09) D:EAR - 스토리 기반 한정판 거래 플랫폼  
 (2026.03 - ) CodeReferee - 자율형 SRE 내결함성 검증 플랫폼 프로젝트  
 (2026.02) GDG Project Track : Gollazoom - 날씨와 착용 이력 기반 코디 추천 스마트 옷장 서비스  
