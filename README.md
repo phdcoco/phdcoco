@@ -14,13 +14,14 @@
 </p>
 
 ### 🏃 Activity  
-(2026.07 - ) Programmers BE 단기심화 데브코스 7기  
+(2026.07 - 2026.09) Programmers BE 단기심화 데브코스 7기  
 (2026.03 - 2026.06) 객체지향프로그래밍 실습조교 (C++, 소프트웨어공학 설계)  
 (2025.09 - ) GDG Hongik BE Part Member  
 (2025.09 - ) GDG Hongik Core Member
 
 ### 📊 Project  
-(2026.07 - ) D:EAR - 스토리 기반 한정판 거래 플랫폼  
+(2026.08) GDG Hongik X Hyphen 해커톤 (우수상) : SCHIM - 장르불문 블라인드 방명록 프로젝트
+(2026.07 - 2026.09) D:EAR - 스토리 기반 한정판 거래 플랫폼  
 (2026.03 - ) CodeReferee - 자율형 SRE 내결함성 검증 플랫폼 프로젝트  
 (2026.02) GDG Project Track : Gollazoom - 날씨와 착용 이력 기반 코디 추천 스마트 옷장 서비스  
 (2025.08) GDG Hongik X Hyphen 해커톤 (대상) : Whik - 맞춤형 또는 새로운 여행지를 추천하는 서비스
