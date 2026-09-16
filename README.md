@@ -14,10 +14,11 @@
 </p>
 
 ### 🏃 Activity  
+(2026.09 - ) GDG Hongik BE 교육팀 멤버 (실전 백엔드 스터디 담당)  
 (2026.07 - 2026.09) Programmers BE 단기심화 데브코스 7기  
 (2026.03 - 2026.06) 객체지향프로그래밍 실습조교 (C++, 소프트웨어공학 설계)  
 (2025.09 - ) GDG Hongik BE Part Member  
-(2025.09 - ) GDG Hongik Core Member
+(2025.09 - 2026.08) GDG Hongik Core Member
 
 ### 📊 Project  
 (2026.08) GDG Hongik X Hyphen 해커톤 (우수상) : SCHIM - 장르불문 블라인드 방명록 프로젝트  
